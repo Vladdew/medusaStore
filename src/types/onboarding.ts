@@ -5,7 +5,7 @@ export type UpdateOnboardingStateInput = {
   is_complete?: boolean;
   product_id?: string;
 };
-
+//Yo
 export interface AdminOnboardingUpdateStateReq {}
 
 export type OnboardingStateRes = {
